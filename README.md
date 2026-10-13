@@ -258,7 +258,7 @@ Las carpetas `models/` y `src/` están reservadas para posibles ampliaciones pos
 ### 12.1. Clonar el repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/ignacioalcaniz/FoodDeliveryML.git
 cd FoodDeliveryML
 ```
 
